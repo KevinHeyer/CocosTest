@@ -1,0 +1,12 @@
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\bin\Debug\CocosTest.dll
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\bin\Debug\CocosTest.pdb
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\bin\Debug\box2d.dll
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\bin\Debug\CocosSharp.dll
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\bin\Debug\MonoGame.Framework.dll
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\obj\Debug\CocosTest.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\obj\Debug\CocosTest.dll
+c:\users\kevin\documents\visual studio 2013\Projects\CocosTest\CocosTest\CocosTest\obj\Debug\CocosTest.pdb
